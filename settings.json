@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BLACK_DEMON.aternos.me",
+    "ip": "BLACK_DEMON.aternos.me:17369",
     "port":17369,
     "version": "1.21.1"
   },
